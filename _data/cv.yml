@@ -150,6 +150,7 @@ cv:
       - title: Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization
         publisher: ICASSP
         status: Submitted
+        url: https://arxiv.org/abs/2610.05310
         summary: Manuscript submitted to ICASSP; not an accepted publication.
       - title: "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics"
         authors:
