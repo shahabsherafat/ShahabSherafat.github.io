@@ -41,7 +41,7 @@ description: "Education, research, teaching, publications, honors, and technical
     <header class="site-header">
       <div class="header-inner">
         <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="s. Shahab Sherafat, home">s<span>.</span></a>
-        <a class="header-name" href="{{ '/' | relative_url }}">Shahab Sherafat<span>AI &amp; human understanding</span></a>
+        <a class="header-name" href="{{ '/' | relative_url }}">Shahab Sherafat<span>Robustness &amp; generative AI</span></a>
         <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-navigation" hidden>
           Menu <span aria-hidden="true">+</span>
         </button>
@@ -149,9 +149,6 @@ description: "Education, research, teaching, publications, honors, and technical
                   {{- paper.title -}}
                 {%- endif %}
               </h3>
-              {% if paper.authors %}
-                <p>{{ paper.authors | join: ', ' }}</p>
-              {% endif %}
             </article>
           {% endfor %}
         </div>

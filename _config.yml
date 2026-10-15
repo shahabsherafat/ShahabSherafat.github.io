@@ -10,10 +10,10 @@ contact_note: >
   For research and academic conversations, email is the best way to reach me.
 description: >
   Shahab Sherafat, computer engineering student at the University of Tehran.
-  Research in robust AI, medical imaging, speech foundation models, and learning.
+  Research interests in AI safety, adversarial robustness, generative AI, and medical applications.
 footer_text: >
   Shahab Sherafat. Built with Jekyll and al-folio. Hosted on GitHub Pages.
-keywords: Shahab Sherafat, artificial intelligence, robustness, medical imaging, University of Tehran, cognitive science
+keywords: Shahab Sherafat, artificial intelligence, AI safety, adversarial robustness, generative AI, medical imaging, University of Tehran
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.svg
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.

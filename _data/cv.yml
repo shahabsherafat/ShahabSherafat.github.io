@@ -4,8 +4,8 @@ cv:
   email: ShahabSherafat123@gmail.com
   phone: +98 9026987323
   location: Tehran, Iran
-  summary: Computer engineering undergraduate at the University of Tehran, with a minor in psychology. Research interests span robust and explainable
-    AI, generative modeling, cognitive science, computational neuroscience, and AI for medicine.
+  summary: Computer engineering undergraduate at the University of Tehran. Research interests include AI safety, adversarial robustness, generative
+    AI, and AI for medicine.
   social_networks:
     - network: GitHub
       username: shahabsherafat
@@ -143,6 +143,14 @@ cv:
         end_date: "2026"
         instructors: Prof. Hashemi, Prof. Moradi
     Publications:
+      - title: "Robustness after Specialization: Installing Adversarial Robustness in Speech Foundation Model Descendants"
+        publisher: ICLR
+        status: Submitted
+        summary: Manuscript submitted to ICLR; not an accepted publication.
+      - title: Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization
+        publisher: ICASSP
+        status: Submitted
+        summary: Manuscript submitted to ICASSP; not an accepted publication.
       - title: "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics"
         authors:
           - Mohammad Amanlou
@@ -159,14 +167,6 @@ cv:
         url: https://arxiv.org/abs/2606.01375
         summary: Guided LLM use and independent learning in undergraduate statistics.
         citation_key: amanlou2026beyond
-      - title: "Robustness after Specialization: Installing Adversarial Robustness in Speech Foundation Model Descendants"
-        publisher: ICLR
-        status: Submitted
-        summary: Manuscript submitted to ICLR; not an accepted publication.
-      - title: Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization
-        publisher: ICASSP
-        status: Submitted
-        summary: Manuscript submitted to ICASSP; not an accepted publication.
     Awards:
       - title: Ranked 78th in the National University Entrance Exam
         date: "2023"
