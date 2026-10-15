@@ -1,189 +1,235 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Shahab Sherafat
+  label: Computer Engineering Student & AI Researcher
+  email: ShahabSherafat123@gmail.com
+  phone: +98 9026987323
+  location: Tehran, Iran
+  summary: Computer engineering undergraduate at the University of Tehran, with a minor in psychology. Research interests span robust and explainable
+    AI, generative modeling, cognitive science, computational neuroscience, and AI for medicine.
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: shahabsherafat
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+      username: shahab-sherafat-2a6712236
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Tehran
+        location: Tehran, Iran
+        url: https://ece.ut.ac.ir/en/
+        area: Computer Engineering
+        studyType: B.Sc.
+        start_date: "2023"
+        end_date: "2028"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+          - "Department of Electrical and Computer Engineering. Expected graduation: 2028."
+          - "Cumulative GPA: 19.20/20.00 (top 8% of class)."
+          - "Major GPA: 19.07/20.00."
+          - "Minor in Psychology; GPA: 18.50/20.00."
+      - institution: Sadat School
+        location: Isfahan, Iran
+        area: High School
+        studyType: Diploma
+        start_date: "2020"
+        end_date: "2023"
         highlights:
-          - Description 1.
-          - Description 2.
-
+          - "GPA: 19.70/20.00."
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Helmholtz Munich
+        lab: Institute of AI for Health
+        position: Research Assistant
+        start_date: "2026"
+        end_date: present
+        topic: Uncertainty Quantification in Neural Cellular Automata
+        category: medicine
+        tags:
+          - Uncertainty quantification
+          - Neural cellular automata
+          - Biomedical imaging
+        summary:
+          Developing uncertainty quantification frameworks for Neural Cellular Automata (NCA) in biomedical image segmentation. Evaluating model
+          reliability and predictive confidence on benchmark cytological datasets.
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          - "Supervisors: Prof. Carsten Marr and Dr. Ario Sadafi."
+      - company: Sharif University of Technology
+        lab: RIML Lab
+        position: Research Assistant
+        start_date: "2026"
+        end_date: present
+        topic: Adversarial Robustness in Speech Foundation Models
+        category: robustness
+        tags:
+          - Adversarial robustness
+          - Speech models
+          - Transferability
+        summary:
+          Developing and evaluating methods to improve adversarial robustness in speech foundation models and transfer robustness to specialized
+          downstream models.
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+          - "Supervisor: Prof. Mohammad Hossein Rohban."
+          - "Robustness after Specialization: Installing Adversarial Robustness in Speech Foundation Model Descendants — submitted to ICLR."
+          - Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization — submitted to ICASSP.
+      - company: University of Tehran
+        lab: AI for Medicine Lab
+        position: Research Assistant
+        start_date: "2025"
+        end_date: "2026"
+        topic: Generative Modeling for MRI-Based Classification
+        category: medicine
+        tags:
+          - Diffusion models
+          - MRI classification
+          - Self-supervised learning
+        summary:
+          Evaluated generative deep learning models (Diffusion, VAE, LDM) for MRI-based disease classification, using self-supervised representations
+          to mitigate clinical data scarcity.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
+          - "Supervisors: Prof. Ahmad Kalhor and Dr. Saeed Masoudnia."
+      - company: TEIAS
+        lab: Tehran Institute for Advanced Studies
+        position: Research Assistant
+        start_date: "2025"
+        end_date: "2025"
+        topic: LLM-Based Support for Mathematics Learning
+        category: learning
+        tags:
+          - Large language models
+          - Learning retention
+          - Automated feedback
+        summary:
+          Designed an LLM-based chatbot and agent for a study investigating undergraduate mathematics learning. Evaluated learning retention and
+          automated feedback.
+        highlights:
+          - Co-authored a paper accepted at ICCE 2026.
+          - "Supervisor: Prof. Behnam Bahrak."
+        url: https://arxiv.org/abs/2606.01375
+    Teaching:
+      - company: Sharif University of Technology
+        department: Department of Computer Engineering
+        position: Teaching Assistant
+        course: Engineering Probability and Statistics
+        start_date: "2026"
+        end_date: present
+        summary: Head of Final Project Team
+        instructors: Prof. Motahari
+      - company: University of Tehran
+        department: Department of Electrical and Computer Engineering
+        position: Teaching Assistant
+        course: Machine Learning
+        start_date: "2026"
+        end_date: present
+        instructors: Prof. Tavassolipour, Prof. Abolghasemi
+      - company: University of Tehran
+        position: Teaching Assistant
+        course: Engineering Probability and Statistics
+        start_date: "2026"
+        end_date: present
+        instructors: Prof. Haghi
+      - company: University of Tehran
+        position: Teaching Assistant
+        course: Artificial Intelligence
+        start_date: "2025"
+        end_date: present
+        instructors: Prof. Yaghoobzadeh, Prof. Fadaei
+      - company: University of Tehran
+        position: Teaching Assistant
+        course: Engineering Probability and Statistics
+        start_date: "2025"
+        end_date: "2026"
+        instructors: Prof. Bahrak, Prof. Vahabie
+      - company: University of Tehran
+        position: Teaching Assistant
+        course: Introduction to Computing Systems and C Programming
+        start_date: "2024"
+        end_date: "2026"
+        instructors: Prof. Hashemi, Prof. Moradi
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+          - Mohammad Amanlou
+          - Yasaman Amou-Jafari
+          - Fereshte Bagheri
+          - Fatemeh Boloukazari
+          - Mehrad Liviyan
+          - Elahe Khodaverdi Nadrabadi
+          - Shahab Sherafat
+          - Behnam Bahrak
+        publisher: ICCE 2026
+        releaseDate: "2026"
+        status: Accepted
+        url: https://arxiv.org/abs/2606.01375
+        summary: Guided LLM use and independent learning in undergraduate statistics.
+        citation_key: amanlou2026beyond
+      - title: "Robustness after Specialization: Installing Adversarial Robustness in Speech Foundation Model Descendants"
+        publisher: ICLR
+        status: Submitted
+        summary: Manuscript submitted to ICLR; not an accepted publication.
+      - title: Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization
+        publisher: ICASSP
+        status: Submitted
+        summary: Manuscript submitted to ICASSP; not an accepted publication.
+    Awards:
+      - title: Ranked 78th in the National University Entrance Exam
+        date: "2023"
+        awarder: National University Entrance Exam
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Machine Learning Specialization
+        issuer: Andrew Ng, Coursera
+        date: "2025"
+      - name: ACM SOC in Deep Learning
+        issuer: University of Tehran
+        date: "2024"
+    Volunteer:
+      - company: ACM Student Chapter, University of Tehran
+        position: Official Member
+        start_date: "2025"
+        end_date: present
+        summary: Participating in academic and technical activities; managing and holding technical and non-technical events for the student tech community.
+    Skills:
+      - name: Programming
+        keywords:
+          - Python
+          - C/C++
+          - R
+          - Java
+          - Bash
+          - SQL
+          - Verilog HDL
+      - name: Frameworks & libraries
+        keywords:
+          - PyTorch
+          - Hugging Face (Transformers)
+          - TensorFlow
+          - Scikit-Learn
+          - NumPy
+          - Pandas
+          - Matplotlib
+      - name: Tools & environments
+        keywords:
+          - Git
+          - Docker
+          - Linux/WSL
+    Languages:
+      - name: Persian
+        summary: Native
+      - name: English
+        summary: Proficient
+    Interests:
+      - name: Robustness
+      - name: Explainable AI
+      - name: Cognitive Science
+      - name: Computational Neuroscience
+      - name: Generative AI
+      - name: AI for Medicine
+    Courses:
+      - name: Artificial Intelligence
+        grade: 20/20
+      - name: Engineering Probability and Statistics
+        grade: 18.7/20
+      - name: Data Science
+        grade: 20/20
+      - name: Advanced Programming
+        grade: 20/20
+      - name: Engineering Mathematics
+        grade: 19.7/20
+      - name: Design and Analysis of Algorithms
+        grade: 19/20

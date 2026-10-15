@@ -1,3 +1,11 @@
 plugins: ["@shopify/prettier-plugin-liquid"]
 printWidth: 150
 trailingComma: "es5"
+
+overrides:
+  - files: ["_pages/about.html", "_pages/cv.html"]
+    options:
+      parser: liquid-html
+
+# Respect checkout line endings on Windows without rewriting untouched files.
+endOfLine: auto
